@@ -2,7 +2,7 @@
 
 ### python_scripts
 
-The folder contains python scripts and associated data used to generate figures 1h, 2e, 2h-i, 3b, 3d, 4c-e, 5c-d, Supplementary figures S3, S6b, S8 and Extended Data figures 1a, 3d, and 4a-b.  
+The folder contains python scripts and associated data used to generate figures 1H, 3E, 3H-I, 4D, 5B, 5D, 6A, 6F-H, 7C-D, Supplementary figures S2F, S3, S5, and S6.  
 
 ### maldi
 
@@ -10,4 +10,4 @@ The folder contains Matlab scripts used to analyze MALDI-TOF spectra and spectra
 
 ### pymol_scripts
 
-The folder contains pymol scripts used to generate models from Extended Data figure 1.
+The folder contains pymol scripts used to generate models from Figure 2.
